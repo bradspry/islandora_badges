@@ -9,7 +9,7 @@ Take note:
 * Citation counts and links (including list of citing articles) can be viewed by the general public
 
 ### Required credentials
-Uses the Web of Science [Article Match Retrieval (AMR)](http://ipscience-help.thomsonreuters.com/LAMRService/WebServiceOperationsGroup/requestAPIWoS.html) service. Credentials are required to use the API, but not to view the results. Web of Science subscribers are entitled to credentials - contact your account manager to get set up.
+Uses the Web of Science [Article Match Retrieval (AMR)](http://help.incites.clarivate.com/LAMRService/WebServiceOperationsGroup/requestAPIWoS.html) service. Credentials are required to use the API, but not to view the results. Web of Science subscribers are entitled to credentials - contact your account manager to get set up.
 
 Badges will only display on objects that have a MODS datastream and a DOI (digital object identifier).
 
